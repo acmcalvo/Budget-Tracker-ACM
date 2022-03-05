@@ -10,7 +10,7 @@
   * [License](#license)
 
 
- ## [Description
+ ## Description
  
 This task is about build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js (Links to an external site.) and Mongoose (Links to an external site.) packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
 
@@ -22,15 +22,28 @@ https://user-images.githubusercontent.com/91921941/156859692-1d8e9f62-f16e-40d6-
   ```
   https://drive.google.com/file/d/1lcnEkaNUCm4rWlWk1JBBjxImKi1GWIyU/view
 ```
- ## Usage
+ ## Application Functionalities
  
-  * Downloaded the code  https://github.com/acmcalvo/Social-Network-ACM-API.git <br/>
-  * open the zipped folder: <br/>
+  *  Option 1: Downloaded the code https://github.com/acmcalvo/Budget-Tracker-ACM.git <br/>
+
+    
+ *  Option 2: online option by Heroku app https://budget-tracker-acm.herokuapp.com/
+ 
     ```
-    $ Run npm install  
-     Need to create .env file to connect to MongoDB. 
-     Went you haves this done run npm start to start the application:
+    The ability to enter deposits offline.
+    The ability to enter expenses offline.
+    Offline entries should be added to the tracker when the application is brought back online
     ```
+   
+* Video demostrtion of Heroku/MongoDB Atlas interaction:
+
+
+https://user-images.githubusercontent.com/91921941/156861017-d0f59fac-eaca-479e-ae05-f8b5cc7fc58b.mp4
+  
+   ```  
+    https://drive.google.com/file/d/18BU4DSbHds_QhkLl6NIMI-VopwSSMO6B/view
+    
+     ```
     
  ## Repository
   https://github.com/acmcalvo/Social-Network-ACM-API.git
