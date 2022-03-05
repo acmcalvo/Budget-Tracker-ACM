@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/91921941/156859692-1d8e9f62-f16e-40d6-
   ```
   https://drive.google.com/file/d/1lcnEkaNUCm4rWlWk1JBBjxImKi1GWIyU/view
 ```
- ## Application Functionalities
+## Application Functionalities
  
   *  Option 1: Downloaded the code https://github.com/acmcalvo/Budget-Tracker-ACM.git <br/>
 
@@ -38,14 +38,15 @@ https://user-images.githubusercontent.com/91921941/156859692-1d8e9f62-f16e-40d6-
 * Video demostrtion of Heroku/MongoDB Atlas interaction:
 
 
-https://user-images.githubusercontent.com/91921941/156861017-d0f59fac-eaca-479e-ae05-f8b5cc7fc58b.mp4
+    https://user-images.githubusercontent.com/91921941/156861017-d0f59fac-eaca-479e-ae05-f8b5cc7fc58b.mp4
   
    ```  
     https://drive.google.com/file/d/18BU4DSbHds_QhkLl6NIMI-VopwSSMO6B/view
     
      ```
-    
- ## Repository
+     
+## Repository
+
  ```
  https://github.com/acmcalvo/Budget-Tracker-ACM.git
  ```
