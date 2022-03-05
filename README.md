@@ -1,37 +1,46 @@
+<img src='https://img.shields.io/github/license/acmcalvo/README-Generator' >
+
 # Social Network-ACM
 
+  ## Table of Contents
+  * [Description](#description)
+  * [Presentation](#presentation)
+  * [Usage](#Usage)
+  * [Repository](#repository)
+  * [License](#license)
+
+
+ ## [Description
+ 
 This task is about build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js (Links to an external site.) and Mongoose (Links to an external site.) packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
 
+ ## Presentation
+  
+https://user-images.githubusercontent.com/91921941/156859692-1d8e9f62-f16e-40d6-9614-803e55e94905.mp4
+  
+  If you have trouble watching the demo video, please use this link:
+  ```
+  https://drive.google.com/file/d/1lcnEkaNUCm4rWlWk1JBBjxImKi1GWIyU/view
+```
+ ## Usage
+ 
+  * Downloaded the code  https://github.com/acmcalvo/Social-Network-ACM-API.git <br/>
+  * open the zipped folder: <br/>
+    ```
+    $ Run npm install  
+     Need to create .env file to connect to MongoDB. 
+     Went you haves this done run npm start to start the application:
+    ```
+    
+ ## Repository
+  https://github.com/acmcalvo/Social-Network-ACM-API.git
 
 
-Second, create HTML file and added Bootstrap, doing more research about how to use and get more information on:
+  ## License 
+  This project is license under MIT License
 
-https://getbootstrap.com/docs/3.4/css/
+ 
+  ## Questions
+  If you have any questions about this projects, please contact me directly at acmcalvo@yahoo.com. 
+  You can view more of my projects at https://github.com/acmcalvo.
 
-Start work with JavaScript,  Added the variables to be used and found the best way to accomplish it
-I found a lot information online, some of them is:
-https://www.youtube.com/watch?v=Lf9rG5DsQYg   or
-https://www.youtube.com/watch?v=riDzcEQbX6k and many more.
-
-This is a screenshot of the first part
-
-<img width="596" alt="Screenshot 2021-11-14 at 12 20 15 PM" src="https://user-images.githubusercontent.com/91921941/141691366-30ee5e86-cb43-44d1-9f23-d769f9f07ead.png">
-
-
-Then My logic is to create a question and complete the rest of the requests for this evaluation:![Screenshot 2021-11-14 at 12 24 37 PM](https://user-images.githubusercontent.com/91921941/141691521-c3a8058e-6644-4d3d-a227-43871ae319d8.png)
-
-and create the algorithm for the assignment added time counted, storage high score, and added my "SECRET PLAYER"
-
-![Screenshot 2021-11-14 at 12 32 38 PM](https://user-images.githubusercontent.com/91921941/141691765-b845be4f-46dd-4ee0-88b4-93c150b916df.png)
-
-![Screen Shot 2021-11-14 at 12 36 42 PM](https://user-images.githubusercontent.com/91921941/141691893-544ffd5b-0047-4b53-9633-25f6dd0f1e4d.png)
-
-![Screen Shot 2021-11-14 at 1 19 44 PM](https://user-images.githubusercontent.com/91921941/141693438-8a26aed4-59a5-47ee-b455-37e32451cfdc.png)
-
-Added the actual distributed Github link and Html and link to the video recorder:
-
-https://github.com/acmcalvo/Code-Quiz.git
-
-https://acmcalvo.github.io/Code-Quiz/
-
-https://watch.screencastify.com/v/04lLmRbAjcPkIIychQ6h
