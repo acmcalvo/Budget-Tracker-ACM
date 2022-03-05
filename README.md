@@ -5,7 +5,7 @@
   ## Table of Contents
   * [Description](#description)
   * [Presentation](#presentation)
-  * [Usage](#Usage)
+  * [Application Functionalities](#applicationfunctionalities)
   * [Repository](#repository)
   * [License](#license)
 
@@ -46,7 +46,9 @@ https://user-images.githubusercontent.com/91921941/156861017-d0f59fac-eaca-479e-
      ```
     
  ## Repository
-  https://github.com/acmcalvo/Social-Network-ACM-API.git
+ ```
+ https://github.com/acmcalvo/Budget-Tracker-ACM.git
+ ```
 
 
   ## License 
