@@ -1,6 +1,6 @@
 <img src='https://img.shields.io/github/license/acmcalvo/README-Generator' >
 
-# Social Network-ACM
+# Buget Tracker | ACM
 
   ## Table of Contents
   * [Description](#description)
