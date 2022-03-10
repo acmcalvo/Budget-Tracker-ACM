@@ -1,37 +1,62 @@
-# Social Network-ACM
+<img src='https://img.shields.io/github/license/acmcalvo/README-Generator' >
 
-This task is about build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js (Links to an external site.) and Mongoose (Links to an external site.) packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
+# Buget Tracker | ACM
 
-
-
-Second, create HTML file and added Bootstrap, doing more research about how to use and get more information on:
-
-https://getbootstrap.com/docs/3.4/css/
-
-Start work with JavaScript,  Added the variables to be used and found the best way to accomplish it
-I found a lot information online, some of them is:
-https://www.youtube.com/watch?v=Lf9rG5DsQYg   or
-https://www.youtube.com/watch?v=riDzcEQbX6k and many more.
-
-This is a screenshot of the first part
-
-<img width="596" alt="Screenshot 2021-11-14 at 12 20 15 PM" src="https://user-images.githubusercontent.com/91921941/141691366-30ee5e86-cb43-44d1-9f23-d769f9f07ead.png">
+  ## Table of Contents
+  * [Description](#description)
+  * [Presentation](#presentation)
+  * [Application Functionalities](#applicationfunctionalities)
+  * [Repository](#repository)
+  * [License](#license)
 
 
-Then My logic is to create a question and complete the rest of the requests for this evaluation:![Screenshot 2021-11-14 at 12 24 37 PM](https://user-images.githubusercontent.com/91921941/141691521-c3a8058e-6644-4d3d-a227-43871ae319d8.png)
+ ## Description
+ 
+Our challenge this week is to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. Once you’ve made these changes, you’ll deploy the application to Heroku.
 
-and create the algorithm for the assignment added time counted, storage high score, and added my "SECRET PLAYER"
+ ## Presentation
+  
+https://user-images.githubusercontent.com/91921941/156859692-1d8e9f62-f16e-40d6-9614-803e55e94905.mp4
+  
+  If you have trouble watching the demo video, please use this link:
+  ```
+  https://drive.google.com/file/d/1lcnEkaNUCm4rWlWk1JBBjxImKi1GWIyU/view
+```
+## Application Functionalities
+ 
+  *  Option 1: Downloaded the code https://github.com/acmcalvo/Budget-Tracker-ACM.git <br/>
 
-![Screenshot 2021-11-14 at 12 32 38 PM](https://user-images.githubusercontent.com/91921941/141691765-b845be4f-46dd-4ee0-88b4-93c150b916df.png)
+    
+ *  Option 2: online option by Heroku app https://budget-tracker-acm.herokuapp.com/
+ 
+    ```
+    The ability to enter deposits offline.
+    The ability to enter expenses offline.
+    Offline entries should be added to the tracker when the application is brought back online
+    ```
+   
+* Video demostrtion of Heroku/MongoDB Atlas interaction:
 
-![Screen Shot 2021-11-14 at 12 36 42 PM](https://user-images.githubusercontent.com/91921941/141691893-544ffd5b-0047-4b53-9633-25f6dd0f1e4d.png)
 
-![Screen Shot 2021-11-14 at 1 19 44 PM](https://user-images.githubusercontent.com/91921941/141693438-8a26aed4-59a5-47ee-b455-37e32451cfdc.png)
+    https://user-images.githubusercontent.com/91921941/156861017-d0f59fac-eaca-479e-ae05-f8b5cc7fc58b.mp4
+  
+   ```  
+    https://drive.google.com/file/d/18BU4DSbHds_QhkLl6NIMI-VopwSSMO6B/view
+    
+     ```
+     
+## Repository
 
-Added the actual distributed Github link and Html and link to the video recorder:
+ ```
+ https://github.com/acmcalvo/Budget-Tracker-ACM.git
+ ```
 
-https://github.com/acmcalvo/Code-Quiz.git
 
-https://acmcalvo.github.io/Code-Quiz/
+  ## License 
+  This project is license under MIT License
 
-https://watch.screencastify.com/v/04lLmRbAjcPkIIychQ6h
+ 
+  ## Questions
+  If you have any questions about this projects, please contact me directly at acmcalvo@yahoo.com. 
+  You can view more of my projects at https://github.com/acmcalvo.
+
